@@ -109,3 +109,15 @@ p{
    margin: 20px;
     color: black;
 }
+
+@media (max-width: 1028px){
+    
+    #title{
+        text-align: center;
+    }
+    .images{
+        position: static;
+        transform: rotate(0);
+        
+    }
+}
